@@ -1,6 +1,6 @@
 # euroangular
 
-Nobias is the application I have designed for my final year project.
+Nobias is the application I have designed for my final year project. In this repository, is the src folder containing components and services for the application.
 
 Main notes:
 Observables and Promises were new concepts and there may be some redundantly long sections of code noticed by someone more familiar with the concepts, but functionality was paramount and the coding style was beneficial for my understanding with so many moving parts.
